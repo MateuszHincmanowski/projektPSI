@@ -138,5 +138,5 @@ Każda transakcja finansowa w systemie musi być powiązana z istniejącym klien
 
 **Royal-bets System**
 
-Dokumentacja przygotowali:  
+Dokumentację przygotowali:  
 **Mateusz Hincmanowski i Patryk Błażejewski**
